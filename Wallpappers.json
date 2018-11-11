@@ -1,19 +1,49 @@
 {
   "wallpapers": [
     {
-            "name": "Board",
-            "author": "unknown",
-            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/board.png"
+            "name": "Black_hoLe",
+            "author": "Dmitry_Bryantsev",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/Black_hoLe.jpg"
         },
         {
-            "name": "Lake",
-            "author": "Nathan Anderson",
-            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+            "name": "Dark_tU",
+            "author": "Dmitry_Bryantsev",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/Dark_tU.jpg"
         },
         {
-            "name": "Stairs",
-            "author": "Geran de Klerk",
-            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/stairs.jpg"
-        }
+            "name": "PiNk_Li",
+            "author": "Dmitry_Bryantsev",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/PiNk_Li.jpg"
+        },
+        {
+            "name": "dEAd_FiSh",
+            "author": "Dmitry_Bryantsev",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/dEAd_FiSh.jpg"
+        },
+        {
+            "name": "T.A.W.",
+            "author": "Dmitry_Bryantsev",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/T.A.W..jpg"
+        },
+        {
+            "name": "a.d.c.c.",
+            "author": "Free",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/a.d.c.c..jpg"
+        },
+        {
+            "name": "assorted_background_board",
+            "author": "Magda Ehlers",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/assorted_background_board(Magda%20Ehlers).jpg"
+        },
+        {
+            "name": "PDYLSX_",
+            "author": "Created-by-Freepik",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/PDYLSX_(Created-by-Freepik).jpg"
+        },
+        {
+            "name": "G.R.",
+            "author": "Dmitry_Bryantsev",
+            "url": "https://raw.githubusercontent.com/dubber01/Wallpappers/master/G.R..jpg" 
+        },  
   ]
 }
